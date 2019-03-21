@@ -1,0 +1,43 @@
+@media (max-width:1220px) {
+	.weekend {
+		width: 700px;
+	}
+
+}
+
+@media (max-width:1150px) {
+	.flex {
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+
+}
+
+@media (max-width:1120px) {
+	.fa-bars {
+		display: block;
+		margin-right: 15px;
+	}
+
+	.navigation {
+		display: none;
+	}
+
+	.weekend {
+		width: 400px;
+	}
+
+	.parent {
+		width: 500px;
+	}
+
+	.parent2 {
+		width: 500px;
+	}
+
+	/*
+	.header-container {
+		width: 600px;
+	}*/
+}
